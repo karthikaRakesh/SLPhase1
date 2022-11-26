@@ -15,7 +15,7 @@ public class JavaVariables {
 
 	}
 	public void display() {//method without argument
-		System.out.println("display is getting ready");
+		System.out.println("display is getting ready");//
 	}
 
 	public static void main(String[] args) {
