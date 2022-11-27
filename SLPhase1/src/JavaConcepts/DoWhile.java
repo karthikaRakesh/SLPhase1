@@ -6,7 +6,7 @@ public class DoWhile {
 		int i=1;
 		do {
 			System.out.println(i);
-			i++;
+			i++;//increment i++=i+1(post increment opera)
 		}while(i<=10);
 
 	}
